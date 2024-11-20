@@ -1,0 +1,1 @@
+https://flask-sqlalchemy.readthedocs.io/en/stable/quickstart/#check-the-sqlalchemy-documentation
